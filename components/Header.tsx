@@ -1,0 +1,1 @@
+export default function Header(){return <div className="border-b border-zinc-900 p-4 flex justify-between"><b>👻 SupportGhost</b><span className="text-xs text-zinc-500">$49/mo • 432 tickets</span></div>}
